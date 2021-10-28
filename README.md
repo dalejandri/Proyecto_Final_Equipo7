@@ -1,5 +1,3 @@
-# Proyecto_Final_Equipo7
-
 # Proyecto_final_equipo7
 
 Main Branch ✓ Includes a README.md 
