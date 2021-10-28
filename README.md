@@ -1,4 +1,6 @@
-# Proyecto_final_equipo7
+# Proyecto_Final_Equipo7
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/1.PNG" /></p>
 
 Main Branch ✓ Includes a README.md 
 README.md README.md must include: ✓ Description of the communication 
