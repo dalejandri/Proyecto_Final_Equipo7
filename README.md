@@ -42,6 +42,12 @@ To handle the database, pgAdmin was chosen. pgAdmin is the most popular and feat
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/2.PNG" /></p>
 
+### Database schema sample:
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/5.PNG" /></p>
+
+# Google colad was used to process the data and created the requiered datafranes to be appended to the corresponding tables in the RDS database.
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/4.PNG" /></p>
 
 
 ✓ Questions they hope to answer with the data
