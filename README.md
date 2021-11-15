@@ -25,17 +25,17 @@ https://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/datos_abiertos_cov
 Data Dictionary:
 https://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_covid19.zip
 
+### Data in the Cloud
+The data source file is stored in an Amazon Simple Storage Service (Amazon S3). AWS S3 is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/3.PNG" /></p>
+
+### Database
+To make efficient use the large dataset a PostgreSQ database instance was created using Amazon Relational Database Service (Amazon RDS). AWS RDS makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. 
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/1.PNG" /></p>
 
 
 
-Main Branch ✓ Includes a README.md 
-README.md README.md must include: ✓ Description of the communication 
-protocols 
-Individual Branches ✓ At least one branch for each team member ✓ Each team member has at least four 
-commits from the duration of the first segment 
 
-
-✓ Description of their source of data
 ✓ Questions they hope to answer with the data
-✓ Description of the communication 
-protocols
