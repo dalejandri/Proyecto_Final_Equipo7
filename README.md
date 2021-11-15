@@ -3,20 +3,20 @@
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/0.PNG" /></p>
 
 ### Selected topic
-A Machine Learning Model that would predict probablity of ending in the ICU if COVID-19 in contracted and there are existing pre-conditions among the patients.
+A Machine Learning Model that would predict probability of ending in the ICU if COVID-19 in contracted and there are existing pre-conditions among the patients.
 Such preconditions are NEUMONIA, DIABETES, EPOC, ASMA, INMUSUPR , HIPERTENSION , CARDIOVASCULAR, OBESIDAD, RENAL_CRONICA and TABAQUISMO.
 
 ### Reason why they selected their topic
-With about two years from the discovery of the novel COVID-19 variants, there is now enough information available natiowide to try help to correlate how adyancent illneses could influnce on the severity of the COVID-19 infection.
+With about two years from the discovery of the novel COVID-19 variants, there is now enough information available nationwide to try help to correlate how adjacent illnesses could influence on the severity of the COVID-19 infection.
 
 ### Description of their source of data
 
-Data is obtained from the mexican Open Data General Directorate of Epidemiology. The data is historical, daily updated in a coma separated text file with 11,596,639 lines of information.
+Data is obtained from the Mexican Open Data General Directorate of Epidemiology. The data is historical, daily updated in a coma separated text file with 11,596,639 lines of information.
 
 (base) PS C:\Users\Daniel Alejandri\Desktop> wc -l 211114COVID19MEXICO.csv
 11596639 211114COVID19MEXICO.csv
 
-Oficial Source of information at:
+Official Source of information at:
 https://www.gob.mx/salud/documentos/datos-abiertos-152127
 
 COVID-19 Database:
@@ -33,7 +33,7 @@ The data source file is stored in an Amazon Simple Storage Service (Amazon S3). 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/3.PNG" /></p>
 
 ### Database
-To make efficient use the large dataset a PostgreSQ database instance was created using Amazon Relational Database Service (Amazon RDS). AWS RDS makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. 
+To make efficient use the large dataset a PostgreSQL database instance was created using Amazon Relational Database Service (Amazon RDS). AWS RDS makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. 
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/1.PNG" /></p>
 
