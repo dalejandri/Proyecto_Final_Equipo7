@@ -10,6 +10,9 @@ Such preconditions are NEUMONIA, DIABETES, EPOC, ASMA, INMUSUPR , HIPERTENSION ,
 With about two years from the discovery of the novel COVID-19 variants, there is now enough information available natiowide to try help to correlate how adyancent illneses could influnce on the severity of the COVID-19 infection.
 
 ✓ Description of their source of data
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_Final_Equipo7/blob/main/Resources/info.jpg" /></p>
+
 Data is obtained from the mexican Open Data General Directorate of Epidemiology. The data is historical, daily updated in a coma separated text file with 11,596,639 lines of information.
 
 (base) PS C:\Users\Daniel Alejandri\Desktop> wc -l 211114COVID19MEXICO.csv
