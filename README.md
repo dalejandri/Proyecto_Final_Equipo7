@@ -50,10 +50,10 @@ To handle the database, pgAdmin was chosen. pgAdmin is the most popular and feat
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/4.PNG" /></p>
 
 ### Patient ID registry dataframe
-<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/6.NG" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/6.PNG" /></p>
 
 ### Ilnesses dataframe
-<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/7PNG" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/7.PNG" /></p>
 
 
 ### Questions they hope to answer with the data
