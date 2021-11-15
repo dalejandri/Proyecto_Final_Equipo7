@@ -37,6 +37,10 @@ To make efficient use the large dataset a PostgreSQ database instance was create
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/1.PNG" /></p>
 
+### Database Administration:
+To handle the database, pgAdmin was chosen. pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/2.PNG" /></p>
 
 
 
