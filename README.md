@@ -30,10 +30,17 @@ https://datosabiertos.salud.gob.mx/gobmx/salud/datos_abiertos/diccionario_datos_
 ### Data in the Cloud
 The data source file is stored in an Amazon Simple Storage Service (Amazon S3). AWS S3 is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements
 
+### Communication Protocol:
+AWS Transfer Family simplifies migration of SFTP, FTPS, and FTP based workflows to AWS. However this option to automate the file transfer was not chosen for this projet because there are costs associated. However its important that remember that this option is available when the project and the budget are justified.
+
+
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/3.PNG" /></p>
 
 ### Database
 To make efficient use the large dataset a PostgreSQL database instance was created using Amazon Relational Database Service (Amazon RDS). AWS RDS makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. 
+
+### Communication Protocol:
+The default TCP port for PostgreSQL is 5432.
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/1.PNG" /></p>
 
