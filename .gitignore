@@ -1,4 +1,7 @@
-
+# ignore the CSV
+211108COVID19MEXICO.csv 
+#ignore the cnfig.py
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
