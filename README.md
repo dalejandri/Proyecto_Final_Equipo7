@@ -65,3 +65,7 @@ To handle the database, pgAdmin was chosen. pgAdmin is the most popular and feat
 
 ### Questions they hope to answer with the data
 At the end of the project we should have an idea of the probablity of patient suffering existing preconditions of ending in the ICU in case of contagion of COVID19.
+
+### Machine Learning Model
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/8.PNG" /></p>
+
