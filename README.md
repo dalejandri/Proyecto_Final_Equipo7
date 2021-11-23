@@ -4,7 +4,7 @@
 
 ### Selected topic
 A Machine Learning Model that would predict probability of ending in the ICU if COVID-19 in contracted and there are existing pre-conditions among the patients.
-Such preconditions are NEUMONIA, DIABETES, EPOC, ASMA, INMUSUPR , HIPERTENSION , CARDIOVASCULAR, OBESIDAD, RENAL_CRONICA and TABAQUISMO.
+Such preconditions are PNEUMONIA, DIABETES, COPD, ASTHMA, IMMUSUPR, HYPERTENSION, CARDIOVASCULAR, OBESITY, CHRONIC_KIDNEY and SMOKING.
 
 ### Reason why they selected their topic
 With about two years from the discovery of the novel COVID-19 variants, there is now enough information available nationwide to try help to correlate how adjacent illnesses could influence on the severity of the COVID-19 infection.
