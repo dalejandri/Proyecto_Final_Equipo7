@@ -52,7 +52,7 @@ To handle the database, pgAdmin was chosen. pgAdmin is the most popular and feat
 ### Database schema sample:
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/5.PNG" /></p>
 
-### Google colab was used to process the data and created the requiered datafranes to be appended to the corresponding tables in the RDS database.
+### Google Colab was used to process the data and created the required data frames to be appended to the corresponding tables in the RDS database.
 
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/4.PNG" /></p>
 
