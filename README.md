@@ -69,3 +69,16 @@ At the end of the project we should have an idea of the probablity of patient su
 ### Machine Learning Model
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/8.PNG" /></p>
 
+## Machine Learning Model
+
+For the Machine learning exercise we prioritized have as few false negatives as possible, because a false positive can be retested but a false negative can go unnoticed.
+
+We used a logistical regression using the data for the current medical conditions of the patients and whether or not they ended up in the ICU.
+For the preliminary attempt we used to sampling for the data and we got a 92% accuracy rate, we soon realized that the accuracy rate wouldn’t be suited for our project since our project since the way we got this high of a score was by predicting that no one would end up in the ICU and since only 8% of our data was part admitted then we had to search for sampling options.
+
+The 3 main sampling options we tried were Oversampling, Under sampling and SMOTE.
+For all methods very similar results, the false negatives went down by a factor of 7, but the SMOTE method is slightly better results.
+
+## Project Presentation
+
+https://docs.google.com/presentation/d/e/2PACX-1vTmds-wZTa-VReB6QeybccjZhDetzq-zg65Dbf2pjhUMicyWWBeRyQH02A0OVhA6HiOHeoxVIY1NtQM/pub?start=false&loop=false&delayms=3000
