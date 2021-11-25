@@ -62,12 +62,13 @@ To handle the database, pgAdmin was chosen. pgAdmin is the most popular and feat
 ### Ilnesses dataframe
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/6.PNG" /></p>
 
+## SQL Script
 
-### Questions they hope to answer with the data
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/SQL.PNG" /></p>
+
+
+## Questions they hope to answer with the data
 At the end of the project we should have an idea of the probablity of patient suffering existing preconditions of ending in the ICU in case of contagion of COVID19.
-
-### Machine Learning Model
-<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/8.PNG" /></p>
 
 ## Machine Learning Model
 
@@ -78,6 +79,8 @@ For the preliminary attempt we used to sampling for the data and we got a 92% ac
 
 The 3 main sampling options we tried were Oversampling, Under sampling and SMOTE.
 For all methods very similar results, the false negatives went down by a factor of 7, but the SMOTE method is slightly better results.
+
+<p align="center"><img class="centerImage" src="https://github.com/dalejandri/Proyecto_final_equipo7/blob/main/Resources/ML.PNG" /></p>
 
 ## Project Presentation
 
